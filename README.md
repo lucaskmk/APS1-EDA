@@ -1,7 +1,7 @@
 # APS1-EDA
 Pipeline de Machine Learning (Adult Census Income - UCI). Projeto acadêmico dividido em 3 etapas: 1. EDA e pré-processamento avançado; 2. Regressão; 3. Classificação. Utiliza Python (Pandas, Scikit-learn, Seaborn) para prever faixas de renda com base em dados demográficos. Foco em tratamento de dados, redução de dimensionalidade e métricas.
 
-#📌 Objetivo do Projeto
+# 📌 Objetivo do Projeto
 
 Analisar dados censitários para entender os fatores que influenciam a renda de um indivíduo e desenvolver modelos capazes de realizar previsões baseadas nessas características. O projeto está estruturado em três grandes etapas (APSs):
 
@@ -11,7 +11,7 @@ Analisar dados censitários para entender os fatores que influenciam a renda de 
 
     Modelagem de Classificação (A definir)
 
-#📊 O Dataset
+# 📊 O Dataset
 
 O conjunto de dados possui 48.842 instâncias e 14 atributos, incluindo:
 
@@ -21,7 +21,7 @@ O conjunto de dados possui 48.842 instâncias e 14 atributos, incluindo:
 
     Target Principal: income (Renda anual >50K ou <=50K).
 
-#🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 
     Linguagem: Python 3.x
 
